@@ -1,3 +1,7 @@
+.container {
+    margin: 0 auto;
+}
+
 .like {
     background: #F58888;
     border: 1px solid rgba(0, 0, 0, 0.33);
